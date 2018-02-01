@@ -1,6 +1,6 @@
 # Keystroke-Authentication-SQLite
 This is an authentication method implemented on keystroke dynamics bio-metric technology. 
-
+{Import sqlite jdbc befor use this}
 1.Run KeyStroke_Detector.jar file. Then Application shows the login page.
 2. If You already have an user account enter your user name twice & then pressed Log In.
 (When first use of the application take few seconds because application needs to setup the Sqlite embeded database)
